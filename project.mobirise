@@ -829,8 +829,8 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image-06-1920x1080.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/image-09-1920x1080-800x450.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -842,7 +842,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image-14-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -894,12 +894,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image-06-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image-06-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/image-09-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image-09-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image-10-1920x1080.png",
@@ -907,7 +907,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
