@@ -261,7 +261,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image-33-1920x1080.png",
@@ -272,12 +272,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image-23-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image-23-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/image-34-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image-34-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image-19-1920x1080.png",
@@ -395,7 +395,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/image-06-1920x1080.png",
                 "thumb": "@PROJECT_PATH@/assets/images/image-06-1920x1080-800x450.png",
-                "alt": "",
+                "alt": "Ani",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
@@ -409,8 +409,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image-01-1920x1080-800x450.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image-01-1920x1080-800x450-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/image-01-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image-01-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -519,7 +519,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/elektryka-1266x743.jpg",
@@ -535,7 +535,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -717,7 +717,7 @@
             "overlayOpacity": 0.5
           },
           "title": "będzie krótko...",
-          "text": "<br>.... choć mam wiele pasji. <br>Największe z nich to: projektowanie wnętrz i detali, taniec oraz biomechanika. <br>Jestem absolwentką studiów podyplomowych na kierunku Wnętrza&amp;Design,&nbsp;<br>ukończyłam także stuia magisterskie i inżynierskie <br>na kierunku Inżynieria Biomedyczna Politechniki Wrocławskiej. <br>Uważam, że chcieć to móc i chcę to Wam pokazać!",
+          "text": "<br>.... choć mam wiele pasji. <br>Największe z nich to: projektowanie wnętrz i detali, taniec oraz biomechanika. <br>Jestem absolwentką studiów podyplomowych na kierunku Wnętrza&amp;Design,&nbsp;<br>ukończyłam także studia magisterskie i inżynierskie <br>na kierunku Inżynieria Biomedyczna Politechniki Wrocławskiej. <br>Uważam, że chcieć to móc i chcę to Wam pokazać!",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#slider-d\" data-toolbar=\"-mbrBtnMove\">wróć</a>",
           "_tags": [
             "Theme"
